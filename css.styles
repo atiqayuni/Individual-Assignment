@@ -1,6 +1,5 @@
 body {
-font-family: Times New Roman;
-background-color: #E8E9EB;
+font-family: Arial, sans-serif;
 margin: 0px;
 padding: 20px;
 
@@ -36,10 +35,10 @@ background-color: light gray;
 
 
 container {
-    width: 80%;
-    margin: auto;       
-    background: white;
-    padding: 20px;
-    margin-top: 20px;
-    box-shadow: 0px 0px 10px #ccc;
+width: 80%;
+ margin: auto;       
+ background: white;
+ padding: 20px;
+margin-top: 20px;
+box-shadow: 0px 0px 10px #ccc;
 }
