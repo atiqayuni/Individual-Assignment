@@ -15,9 +15,15 @@ font-weight: bold;
 }
 
 table {
-width: 100%;
 border-collapse: collapse;
-margin-top: 15px;
+width: 100%;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+th, td {
+padding: 8px;
+text-align: left;
 }
 
 img {
@@ -32,7 +38,6 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
-
 
 nav {
 background-color: #C5C6C7;
