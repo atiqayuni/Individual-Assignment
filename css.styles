@@ -7,7 +7,7 @@ background-color: #C1B6A4
 }
 
 h1, h2, h3 {
-color: black;
+color: #5B4A3E ;
 }
 
 a {
@@ -42,7 +42,7 @@ gap: 10px;
 }
 
 nav a {
-color: white;
+color: #5B4A3E;
 padding: 10px 15px;
 background-color: #F6F5EC;
 border-radius: 4px;
@@ -51,7 +51,7 @@ border-radius: 4px;
 .container {
 width: 80%;
 margin: auto;       
-background: #0F1A2B;
+background: #E8DED4;
 padding: 20px;
 margin-top: 20px;
 box-shadow: 0px 0px 10px #ccc;
